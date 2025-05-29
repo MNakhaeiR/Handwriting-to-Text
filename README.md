@@ -56,15 +56,4 @@ Store your custom images in the `./DATASET`.
 
 Please follow the existing code style, include tests, and update this README as needed.
 
----
-
-## 📜 License
-
-This project is licensed under the **MIT License**. See [LICENSE](LICENSE) for details.
-
----
-
-> “Handwriting connects us to the past—OCR sets it free.”
-
-```
 ```
