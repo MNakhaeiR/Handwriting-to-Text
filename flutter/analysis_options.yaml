@@ -1,0 +1,23 @@
+include: package:flutter_lints/flutter.yaml
+
+# Additional rules for better code quality
+linter:
+  rules:
+    - avoid_print
+    - prefer_const_constructors
+    - prefer_const_literals_to_create_immutables
+    - prefer_const_declarations
+    - unnecessary_new
+    - unnecessary_this
+    - use_key_in_widget_constructors
+    - prefer_single_quotes
+    - sort_child_properties_last
+    - avoid_unnecessary_containers
+    - sized_box_for_whitespace
+    - avoid_web_libraries_in_flutter
+    - prefer_is_empty
+    - prefer_is_not_empty
+    - prefer_typing_uninitialized_variables
+    - prefer_collection_literals
+    - avoid_function_literals_in_foreach_calls
+    - prefer_spread_collections
